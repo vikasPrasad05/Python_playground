@@ -1,5 +1,5 @@
 # Python_playground
-===================
+
 This area is to keep code I write but isn't part of a project.
 
 COPYING 
